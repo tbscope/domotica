@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="background">images/dark_fabric-wallpaper-1440x900.jpg</file>
+    </qresource>
+</RCC>
